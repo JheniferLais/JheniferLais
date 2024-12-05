@@ -15,6 +15,7 @@
 │   ├── she/her - brazilian - (pt/Br + basic english)
 │   ├── software engineering student
 │   └── full-stack developer in training
+│
 ├── os...
 │   ├── linux.txt
 │   │   └── ubuntu (lts)
