@@ -11,24 +11,32 @@
 ```plaintext
 /About_Me
 │
-├── bio.txt
+├── bio.txt...
 │   ├── she/her - brazilian - (pt/Br + basic english)
 │   ├── software engineering student
 │   └── full-stack developer in training
-├── os
+├── os...
 │   ├── linux.txt
 │   │   └── ubuntu (lts)
 │   └── windows.txt
 │       └── windows 11 (home and pro)
-├── languages
-│   ├── c++.cpp
-│   └── python.py
-└── learning
-    ├── html.html
-    ├── css.css
-    ├── javascript.js
-    ├── typescript.ts
-    ├── node.js
+├── languages...
+│   ├── c++.cpp / c.c
+│   ├── python.py
+│   ├── javascript.js
+│   ├── typescript.ts
+│   └── html.html / css.css
+├── another technologies...
+│   ├── git / github
+│   ├── oracle database
+│   ├── postman
+│   ├── node.js
+│   └── express.js
+└── learning...
+    ├── clean architecture
+    ├── java.java
+    ├── springboot
+    ├── spring
     ├── soft skills
     └── english
 ```
