@@ -1,5 +1,5 @@
 <a href="">
-<img src="https://cdn.pixabay.com/photo/2023/09/02/07/41/ai-generated-8228386_1280.png" align="left" width="155" height="790">
+<img src="https://cdn.pixabay.com/photo/2023/09/02/07/41/ai-generated-8228386_1280.png" align="left" width="155" height="760">
 </a>
 
 ```plaintext
