@@ -13,16 +13,6 @@ Com o objetivo de melhorar constantemente minhas habilidades, me dedico a aprend
 - **Frameworks**: Spring Boot, Node.js, React e Jetpack Compose
 - **Arquitetura de Software**: Padrões de design, Clean Architecture, SOLID
 
-## 📚 Projetos Pessoais
-
-### [InvSys](https://github.com/JheniferLais/PI1-InvSys)
-- **Descrição**: Sistema CRUD de controle de estoque em python, utilizando a banco de dados e criptografia de Hill para proteger a descrição dos produtos.
-- **Tecnologias**: Python, Oracle e Hill Cipher
-
-### [Wager](https://github.com/JheniferLais/PI2-Wager)
-- **Descrição**: Plataforma web de apostas, com backend em TypeScript e Express, e frontend em HTML, CSS e JavaScript com padrão de arquitetura MVC.
-- **Tecnologias**: Typescript, Node.js, (HTML, CSS e JavaScript) e Oracle
-
 ## 📫 Contato
 
 - **[Email](mailto:jheniferlais3@email.com)**
