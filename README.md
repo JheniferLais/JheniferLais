@@ -17,5 +17,5 @@ Com o objetivo de melhorar constantemente minhas habilidades, me dedico a aprend
 
 - **[Email](mailto:jheniferlais3@email.com)**
 
-  <!-- ![JheniferLais's Stats](https://github-readme-stats-beryl-phi-17.vercel.app/api?username=JheniferLais&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) -->
+  ![JheniferLais's Stats](https://github-readme-stats-beryl-phi-17.vercel.app/api?username=JheniferLais&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
   ![JheniferLais's Top Languages](https://github-readme-stats-beryl-phi-17.vercel.app/api/top-langs/?username=JheniferLais&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true)
