@@ -6,7 +6,7 @@ Com o objetivo de melhorar constantemente minhas habilidades, me dedico a aprend
 
 ## 🚀 Habilidades Técnicas
 
-- **Desenvolvimento**: Java, C++, Typescript, Kotlin e Python
+- **Desenvolvimento**: C++, Dart, Java, Kotlin, Python e Typescript
 - **Banco de Dados**: Modelagem de Dados, Normalização/Desnormalização, (PostgreSQL, MySQL, Oracle)
 - **Metodologias Ágeis**: Scrum e Kanban
 - **Algoritmos**: Algoritmos, Lógica de Programação e Estruturas de Dados
